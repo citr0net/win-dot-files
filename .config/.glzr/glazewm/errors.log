@@ -1,0 +1,348 @@
+[2m2025-06-27T01:39:43.185755Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to execute 'zebar'.
+
+Error: The operation was canceled by the user. (0x800704C7)
+[2m2025-06-27T01:39:53.221703Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to execute 'zebar'.
+
+Error: The operation was canceled by the user. (0x800704C7)
+[2m2025-06-27T01:40:41.127733Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m Failed to execute 'zebar'.
+
+Error: The operation was canceled by the user. (0x800704C7)
+[2m2025-06-27T15:31:11.885813Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m general.startup_commands: Usage: wm-common <COMMAND>
+
+Commands:
+  adjust-borders            
+  close                     
+  focus                     
+  ignore                    
+  move                      
+  move-workspace            
+  position                  
+  resize                    
+  set-floating              
+  set-fullscreen            
+  set-minimized             
+  set-tiling                
+  set-title-bar-visibility  
+  set-transparency          
+  shell-exec                
+  size                      
+  toggle-floating           
+  toggle-fullscreen         
+  toggle-minimized          
+  toggle-tiling             
+  toggle-tiling-direction   
+  set-tiling-direction      
+  wm-cycle-focus            
+  wm-disable-binding-mode   
+  wm-enable-binding-mode    
+  wm-exit                   
+  wm-redraw                 
+  wm-reload-config          
+  wm-toggle-pause           
+  help                      Print this message or the help of the given subcommand(s)
+
+Options:
+  -h, --help  Print help
+ at line 5 column 21
+[2m2025-06-27T15:31:20.498406Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m general.startup_commands: Usage: wm-common <COMMAND>
+
+Commands:
+  adjust-borders            
+  close                     
+  focus                     
+  ignore                    
+  move                      
+  move-workspace            
+  position                  
+  resize                    
+  set-floating              
+  set-fullscreen            
+  set-minimized             
+  set-tiling                
+  set-title-bar-visibility  
+  set-transparency          
+  shell-exec                
+  size                      
+  toggle-floating           
+  toggle-fullscreen         
+  toggle-minimized          
+  toggle-tiling             
+  toggle-tiling-direction   
+  set-tiling-direction      
+  wm-cycle-focus            
+  wm-disable-binding-mode   
+  wm-enable-binding-mode    
+  wm-exit                   
+  wm-redraw                 
+  wm-reload-config          
+  wm-toggle-pause           
+  help                      Print this message or the help of the given subcommand(s)
+
+Options:
+  -h, --help  Print help
+ at line 5 column 21
+[2m2025-06-27T15:31:49.603387Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m general.startup_commands: Usage: wm-common <COMMAND>
+
+Commands:
+  adjust-borders            
+  close                     
+  focus                     
+  ignore                    
+  move                      
+  move-workspace            
+  position                  
+  resize                    
+  set-floating              
+  set-fullscreen            
+  set-minimized             
+  set-tiling                
+  set-title-bar-visibility  
+  set-transparency          
+  shell-exec                
+  size                      
+  toggle-floating           
+  toggle-fullscreen         
+  toggle-minimized          
+  toggle-tiling             
+  toggle-tiling-direction   
+  set-tiling-direction      
+  wm-cycle-focus            
+  wm-disable-binding-mode   
+  wm-enable-binding-mode    
+  wm-exit                   
+  wm-redraw                 
+  wm-reload-config          
+  wm-toggle-pause           
+  help                      Print this message or the help of the given subcommand(s)
+
+Options:
+  -h, --help  Print help
+ at line 5 column 21
+[2m2025-06-27T15:33:08.430052Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m general.startup_commands: Usage: wm-common <COMMAND>
+
+Commands:
+  adjust-borders            
+  close                     
+  focus                     
+  ignore                    
+  move                      
+  move-workspace            
+  position                  
+  resize                    
+  set-floating              
+  set-fullscreen            
+  set-minimized             
+  set-tiling                
+  set-title-bar-visibility  
+  set-transparency          
+  shell-exec                
+  size                      
+  toggle-floating           
+  toggle-fullscreen         
+  toggle-minimized          
+  toggle-tiling             
+  toggle-tiling-direction   
+  set-tiling-direction      
+  wm-cycle-focus            
+  wm-disable-binding-mode   
+  wm-enable-binding-mode    
+  wm-exit                   
+  wm-redraw                 
+  wm-reload-config          
+  wm-toggle-pause           
+  help                      Print this message or the help of the given subcommand(s)
+
+Options:
+  -h, --help  Print help
+ at line 5 column 21
+[2m2025-06-27T15:34:42.741813Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m general.startup_commands: Usage: wm-common <COMMAND>
+
+Commands:
+  adjust-borders            
+  close                     
+  focus                     
+  ignore                    
+  move                      
+  move-workspace            
+  position                  
+  resize                    
+  set-floating              
+  set-fullscreen            
+  set-minimized             
+  set-tiling                
+  set-title-bar-visibility  
+  set-transparency          
+  shell-exec                
+  size                      
+  toggle-floating           
+  toggle-fullscreen         
+  toggle-minimized          
+  toggle-tiling             
+  toggle-tiling-direction   
+  set-tiling-direction      
+  wm-cycle-focus            
+  wm-disable-binding-mode   
+  wm-enable-binding-mode    
+  wm-exit                   
+  wm-redraw                 
+  wm-reload-config          
+  wm-toggle-pause           
+  help                      Print this message or the help of the given subcommand(s)
+
+Options:
+  -h, --help  Print help
+ at line 5 column 21
+[2m2025-06-27T15:35:27.407711Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m general.startup_commands: one or more required arguments were not provided
+ at line 5 column 21
+[2m2025-06-27T15:35:38.722310Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m general.startup_commands: one or more required arguments were not provided
+ at line 5 column 21
+[2m2025-06-27T15:35:52.988999Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m general.startup_commands: Usage: wm-common <COMMAND>
+
+Commands:
+  adjust-borders            
+  close                     
+  focus                     
+  ignore                    
+  move                      
+  move-workspace            
+  position                  
+  resize                    
+  set-floating              
+  set-fullscreen            
+  set-minimized             
+  set-tiling                
+  set-title-bar-visibility  
+  set-transparency          
+  shell-exec                
+  size                      
+  toggle-floating           
+  toggle-fullscreen         
+  toggle-minimized          
+  toggle-tiling             
+  toggle-tiling-direction   
+  set-tiling-direction      
+  wm-cycle-focus            
+  wm-disable-binding-mode   
+  wm-enable-binding-mode    
+  wm-exit                   
+  wm-redraw                 
+  wm-reload-config          
+  wm-toggle-pause           
+  help                      Print this message or the help of the given subcommand(s)
+
+Options:
+  -h, --help  Print help
+ at line 5 column 21
+[2m2025-06-27T15:36:46.914134Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m general.startup_commands: Usage: wm-common <COMMAND>
+
+Commands:
+  adjust-borders            
+  close                     
+  focus                     
+  ignore                    
+  move                      
+  move-workspace            
+  position                  
+  resize                    
+  set-floating              
+  set-fullscreen            
+  set-minimized             
+  set-tiling                
+  set-title-bar-visibility  
+  set-transparency          
+  shell-exec                
+  size                      
+  toggle-floating           
+  toggle-fullscreen         
+  toggle-minimized          
+  toggle-tiling             
+  toggle-tiling-direction   
+  set-tiling-direction      
+  wm-cycle-focus            
+  wm-disable-binding-mode   
+  wm-enable-binding-mode    
+  wm-exit                   
+  wm-redraw                 
+  wm-reload-config          
+  wm-toggle-pause           
+  help                      Print this message or the help of the given subcommand(s)
+
+Options:
+  -h, --help  Print help
+ at line 5 column 21
+[2m2025-06-27T15:37:13.330114Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m general.shutdown_commands: Usage: wm-common <COMMAND>
+
+Commands:
+  adjust-borders            
+  close                     
+  focus                     
+  ignore                    
+  move                      
+  move-workspace            
+  position                  
+  resize                    
+  set-floating              
+  set-fullscreen            
+  set-minimized             
+  set-tiling                
+  set-title-bar-visibility  
+  set-transparency          
+  shell-exec                
+  size                      
+  toggle-floating           
+  toggle-fullscreen         
+  toggle-minimized          
+  toggle-tiling             
+  toggle-tiling-direction   
+  set-tiling-direction      
+  wm-cycle-focus            
+  wm-disable-binding-mode   
+  wm-enable-binding-mode    
+  wm-exit                   
+  wm-redraw                 
+  wm-reload-config          
+  wm-toggle-pause           
+  help                      Print this message or the help of the given subcommand(s)
+
+Options:
+  -h, --help  Print help
+ at line 9 column 22
+[2m2025-06-27T15:37:22.598979Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m general.startup_commands: one or more required arguments were not provided
+ at line 5 column 21
+[2m2025-06-27T15:37:48.157319Z[0m [31mERROR[0m [2mglazewm[0m[2m:[0m general.shutdown_commands: Usage: wm-common <COMMAND>
+
+Commands:
+  adjust-borders            
+  close                     
+  focus                     
+  ignore                    
+  move                      
+  move-workspace            
+  position                  
+  resize                    
+  set-floating              
+  set-fullscreen            
+  set-minimized             
+  set-tiling                
+  set-title-bar-visibility  
+  set-transparency          
+  shell-exec                
+  size                      
+  toggle-floating           
+  toggle-fullscreen         
+  toggle-minimized          
+  toggle-tiling             
+  toggle-tiling-direction   
+  set-tiling-direction      
+  wm-cycle-focus            
+  wm-disable-binding-mode   
+  wm-enable-binding-mode    
+  wm-exit                   
+  wm-redraw                 
+  wm-reload-config          
+  wm-toggle-pause           
+  help                      Print this message or the help of the given subcommand(s)
+
+Options:
+  -h, --help  Print help
+ at line 9 column 22
